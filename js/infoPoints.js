@@ -35,7 +35,7 @@ function getNewCircle(radius, previousCircles, called = 0) {
         previousCircles.every(previousCircle => dontTouch(circle, previousCircle))) {
         return circle;
     }
-    if (called > 500) {
+    if (called > 5000) {
         console.log(circle, called, previousCircles);
         throw Error();
     }
