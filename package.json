@@ -1,0 +1,24 @@
+{
+  "name": "pradyumna1.github.io",
+  "version": "0.1.0",
+  "description": "My Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradyumna1/pradyumna1.github.io.git"
+  },
+  "keywords": [
+    "Portfolio",
+    "personal-site",
+    "pradyumna1"
+  ],
+  "author": "Pradyumna Newalkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pradyumna1/pradyumna1.github.io/issues"
+  },
+  "homepage": "https://github.com/pradyumna1/pradyumna1.github.io#readme"
+}
