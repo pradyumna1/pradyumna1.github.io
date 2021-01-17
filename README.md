@@ -1,7 +1,6 @@
 ## Glad to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Pradyumna Newalkar, an engineering graduate from [Indian Institute of Information Technology, Allahabad](https://www.iiita.ac.in/) and am currently working as a Senior Software Engineer at <a alt="simsim" href="https://simsim.in"><span><img height="20px" src="https://simsim.in/static/images/logo_ruby.png"/></span></a>.
-<!--I am a tech enthusiast & an open-source advocate.-->
+I am Pradyumna Newalkar, an engineering graduate from [IIIT, Allahabad](https://www.iiita.ac.in/) and am currently working as a Senior Software Engineer at <a alt="simsim" href="https://simsim.in"><span><img height="20px" src="https://simsim.in/static/images/logo_ruby.png"/></span></a>.
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-pradyumna--newalkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pradyumna-newalkar/)](https://www.linkedin.com/in/pradyumna-newalkar/)
@@ -9,12 +8,11 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 [![Medium Badge](https://img.shields.io/badge/-@pradyumnanewalkar-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@pradyumnanewalkar)](https://medium.com/@pradyumnanewalkar)
 [![Twitter Badge](https://img.shields.io/badge/-prad_newalkar-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/prad_newalkar)](https://twitter.com/prad_newalkar)
 [![Gmail Badge](https://img.shields.io/badge/-contactpradyumna1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contactpradyumna1@gmail.com)](mailto:contactpradyumna1@gmail.com)
-
 <!--[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)-->
 
 If you wanna hire me, here is my [resume](https://pradyumna1.github.io/Resume.pdf).
 
-## ⚡ Technologies
+## ⚡ Technologies I Know ⚡
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -46,7 +44,10 @@ If you wanna hire me, here is my [resume](https://pradyumna1.github.io/Resume.pd
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
+Below data is from my github profile:
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pradyumna1&count_private=true&show_icons=true&include_all_commits=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradyumna1&hide=TeX&layout=compact)
 
 <!--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)-->
