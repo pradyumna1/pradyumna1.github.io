@@ -10,6 +10,8 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 [![Gmail Badge](https://img.shields.io/badge/-contactpradyumna1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contactpradyumna1@gmail.com)](mailto:contactpradyumna1@gmail.com)
 <!--[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)-->
 
+If you wanna hire me, here is my [resume]("https://pradyumna1.github.io/Resume.pdf").
+
 ## ⚡ Technologies
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
